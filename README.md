@@ -26,7 +26,7 @@ npm install
 npm run dev
 Acesse em http://localhost:5173
 
-👨‍💻 Integrantes
+## 👨‍💻 Integrantes
 1. Gustavo Garcia Silva RM562078
 2. Gustavo Oliveira Barroso RM565705
 3. João Marcelo Diniz Vespa RM564038
